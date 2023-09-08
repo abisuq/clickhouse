@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	clickhouse "gorm.io/driver/ch"
+	"gorm.io/driver/clickhouse"
 	"gorm.io/gorm"
 )
 
